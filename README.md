@@ -5,3 +5,9 @@ wsk action invoke sequencedouble  --result
 
 Concernant la seconde séquance qui elle est exposée sur le web tu devras lancer la commande ci-dessous
 curl https://ow.services.eemi.tech/api/v1/web/guillem.borzi%40eemi.com/default/websequence
+
+Si d'aventure ta curiosité t'emmène à regarder le résultat l'adresse suivante dans la barre de recherche tu devra rentrer :
+
+https://ow.services.eemi.tech/api/v1/web/guillem.borzi%40eemi.com/default/websequence
+
+Bonne route à toi 
